@@ -5,6 +5,9 @@
 # Built with:
 - React
 
+# API:
+- Openweather API
+
 # Improvements and Bugs:
 - Solve the background video bug
 - Create "favourite city" section
