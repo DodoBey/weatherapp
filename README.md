@@ -13,3 +13,10 @@
 - Create "favourite city" section
 - Use better background visuals
 - Improve the codes
+
+
+### Used IONIC framework to create android app version.
+
+
+https://user-images.githubusercontent.com/77416196/116640986-a3f93d00-a920-11eb-834c-95ee92b68a27.mp4
+
