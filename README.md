@@ -20,4 +20,4 @@
 
 https://user-images.githubusercontent.com/77416196/116640986-a3f93d00-a920-11eb-834c-95ee92b68a27.mp4
 
-:red_circle: Can not upload to android files due to gitHub file limitation.
+:red_circle: Cannot upload to android files due to gitHub file limitation.
